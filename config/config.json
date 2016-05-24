@@ -1,0 +1,14 @@
+{
+  "ftpIp":"30.209.81.6",
+  "ftpPort":"21",
+  "ftpUserName":"timeshift",
+  "ftpPwd":"timeshift123",
+  "local_dir":"D:/test",
+
+  "mysqlIp":"30.209.81.7",
+  "mysqlUserName":"root",
+  "mysqlPwd":"root",
+  "mysqlDb":"python"
+
+
+}
